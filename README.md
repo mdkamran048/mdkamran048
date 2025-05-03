@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdkamran048&label=Profile%20views&color=0e75b6&style=flat" alt="mdkamran048" /> </p>
 
-- 🔭 I’m currently Studying **Data Analytics**
+- 🔭 I’m currently working as a **Data Engineer**
 
-- 💬 Ask me about **Excel, Python, SQL, PowerBi, Machine Learning**
+- 💬 Ask me about **Excel, Python, SQL, PowerBi, Tableau, Talend, Machine Learning**
 
 - 📫 How to reach me **mdkamran7023@gmail.com**
 
